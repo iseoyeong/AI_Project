@@ -3,3 +3,5 @@
 
 Yolov5 Custom Dataset 생성 및 학습
 - https://roboflow.com/
+
+위 사이트들을 활용하여 eletricscooter와 bollard 이미지를 학습시켜 object detection 작업을 수행했다.
